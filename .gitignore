@@ -17,3 +17,6 @@ target/
 dbmysqlgen
 *.erm
 *.lck
+
+web/WEB-INF/classes/*
+
